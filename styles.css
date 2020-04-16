@@ -1,0 +1,129 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+h2 {
+    margin-right: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.readme-wrapper {
+    font-weight: bold;
+}
+
+.span-color-orange {
+    color: orange;
+    font-weight: bold;
+}
+
+.span-color-yellow {
+    color: yellow;
+    font-weight: bold;
+}
+.span-color-brown {
+    color: brown;
+    font-weight: bold;
+}
+
+.span-color-purple {
+    color: purple;
+    font-weight: bold;
+}
+
+.boxes {
+    margin: 1em;
+    padding: .5em;
+    border: solid brown 3px;
+    border-radius: 3em;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: cyan;
+}
+
+#box2 {
+    background-color: darkgreen;
+}
+
+#box3 {
+    background-color: darksalmon;
+}
+
+#box4 {
+    background-color: yellowgreen;
+}
+
+.div-image {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: silver;    
+    float: left;
+    left: 135px;
+    top: 15px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.original {
+    color: green;
+}
+
+.additional {
+    color: purple;
+}
+
+#show1 {
+    color: green;
+}
+
+#show2 {
+    color: greenyellow;
+}
+
+#show3 {
+    color: hotpink;
+}
+
+#show4 {
+    color: khaki;
+}
+
+#show5 {
+    color: lightblue;
+}
+
+ul {
+    color: steelblue;
+}
+
+.star {
+	color: violet;
+}
+
+#wars {
+    color: rgb(88, 30, 19);
+}
+
+.border {
+    border: solid black 2px;
+}
